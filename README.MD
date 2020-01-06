@@ -1,4 +1,5 @@
 # MMO / Alchemy Auto Clicker
+[logo]: https://imgur.com/a/6HwLLhI "GUI"
 
 ## Description
 * This software let's you click things hands free. More than that, you can set the X and Y coordinates and also specify a width and height range for it to randomly click around near those coordinates. You also can specify a min and max time for random click intervals.
